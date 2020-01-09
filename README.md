@@ -1,4 +1,4 @@
-这个项目是参考https://github.com/JoeyBling/webkettle，更改了其中的web.xml，本身会乱码； 
+这个项目是参考[github](https://github.com/JoeyBling/webkettle)，改了其中的web.xml，本身会乱码；
 -------------------------
 
 #  webKettleETL产品介绍
